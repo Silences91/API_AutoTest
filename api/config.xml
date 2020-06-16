@@ -1,0 +1,8 @@
+<project>
+    <cases>
+        <Normal_01-normal_01/>#格式：接口名称-用例名称
+        <Normal_01-normal_02/>
+        <Normal_01-normal_03/>
+        <Normal_01-normal_04/>
+    </cases>
+</project>
